@@ -31,7 +31,7 @@ This Android application is a simple implementation of the classic Tic Tac Toe g
 ## Code Structure
 
 - The Kotlin code for the game logic is located in the `app/src/main/java/com/nafae/gamexlo/MainActivity.kt` file.
-- The XML layout for the game board is defined in the `activity_main.xml` file.
+- The XML layout for the game board is defined in the `app/src/main/res/layout/activity_main.xml` file.
 
 
 
