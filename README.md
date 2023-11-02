@@ -26,7 +26,7 @@ This Android application is a simple implementation of the classic Tic Tac Toe g
 3. Player 1 (X) goes first. Tap on an empty cell to place an 'X'.
 4. Player 2 (O) takes the next turn. Tap on an empty cell to place an 'O'.
 5. Continue taking turns until one player wins or the game ends in a draw.
-6. To start a new game, tap the "New Game" button.
+6. To start a new game, tap the "Replay" button.
 
 ## Code Structure
 
